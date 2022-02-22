@@ -1,0 +1,5 @@
+# Variable Functions
+*variable_deepEquals*
+
+*variable_toJSON*
+

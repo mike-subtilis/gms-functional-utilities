@@ -1,0 +1,30 @@
+# Arrays
+
+array_any
+array_concat
+array_contains
+array_deepEquals
+array_difference****
+array_each
+array_every
+array_filter
+array_find
+
+*array_intersection* array_intersection(array1, array2)
+Returns an array that contains the unique values found in both source arrays.
+
+array_map
+array_pluck
+array_reduce
+array_reject***
+array_toJSON
+array_toList
+
+*array_union* array_union(array1, array2)
+Returns an array that contains the unique values found in either source array.
+
+*array_unique* array_unique(sourceArray)
+Returns a copy of the *sourceArray* with duplicate values removed.
+
+*array_without* array_without(sourceArray, valuesToRemove)
+Returns a copy of the *sourceArray* with all instances of the *valuesToRemove* removed.

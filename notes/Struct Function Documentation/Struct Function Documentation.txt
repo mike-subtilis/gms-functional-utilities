@@ -1,0 +1,10 @@
+# Structs
+
+struct_clone
+struct_deepEquals
+struct_keys
+struct_matches
+struct_omit
+struct_pick
+struct_toMap
+struct_values
